@@ -1,6 +1,6 @@
 # Bench
 
-**TODO: Add description**
+To run the benchmark go to the root of the project `/bench` and run `>mix run {name_of_benchmark}.exs` (replacing the name of the benchmark test file you want to run.)
 
 ## Installation
 
